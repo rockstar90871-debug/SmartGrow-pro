@@ -1,1 +1,2 @@
 # SmartGrow-pro
+git init
